@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @vishalkarwa
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on twitter,Linkdin
 - 📫 How to reach me 
 
