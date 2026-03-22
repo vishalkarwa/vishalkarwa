@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @vishalkarwa
-- 💞️ I’m looking to collaborate on twitter,Linkdin
-- 📫 How to reach me 
+👋 Hi, I'm Vishal Karwa
 
-<!---
-vishalkarwa/vishalkarwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Engineering Student
+💡 Passionate about AI, Web Development & Problem Solving
+🚀 Currently preparing for placements & GATE
+
+🧠 About Me
+🔭 I’m currently working on Web Development & AI projects
+📚 Learning Data Structures & Algorithms (DSA)
+🤖 Exploring Machine Learning & LLMs
+💼 Interested in Software Development roles
+⚡ Fun fact: I love traveling and exploring new places 🌍
+
+
+🛠️ Tech Stack💻 Languages
+
+Python 🐍
+Java ☕
+C
+SQL
+🌐 Web Development
+HTML, CSS, JavaScript
+PHP
+
+
+⚙️ Tools & Technologies
+Git & GitHub
+MySQL
+VS Code
