@@ -1,29 +1,15 @@
-👋 Hi, I'm Vishal Karwa
+Vishal Karwa
+About Me
 
-🎓 Computer Science Engineering Student
-💡 Passionate about AI, Web Development & Problem Solving
-🚀 Currently preparing for placements & GATE
+Computer Science Engineering student with a strong interest in Software Development, Artificial Intelligence, and problem-solving. Focused on building practical, scalable applications and writing efficient, maintainable code.
 
-🧠 About Me
-🔭 I’m currently working on Web Development & AI projects
-📚 Learning Data Structures & Algorithms (DSA)
-🤖 Exploring Machine Learning & LLMs
-💼 Interested in Software Development roles
-⚡ Fun fact: I love traveling and exploring new places 🌍
+Skills & Technologies
 
+Programming Languages:
+Python, Java, C, SQL
 
-🛠️ Tech Stack💻 Languages
+Web Development:
+HTML, CSS, JavaScript, PHP
 
-Python 🐍
-Java ☕
-C
-SQL
-🌐 Web Development
-HTML, CSS, JavaScript
-PHP
-
-
-⚙️ Tools & Technologies
-Git & GitHub
-MySQL
-VS Code
+Tools & Technologies:
+Git, GitHub, MySQL, Visual Studio Code
